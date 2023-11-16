@@ -1,0 +1,25 @@
+{
+  "name": "ricardobot",
+  "version": "1.0.0",
+  "description": "Discord bot for Ricardo Discord Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "@google-cloud/translate": "^8.0.2",
+    "axios": "^1.6.0",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "ffmpeg-static": "^5.1.0",
+    "is-url": "^1.2.4",
+    "libsodium-wrappers": "^0.7.11",
+    "node-fetch": "^2.6.12",
+    "play-dl": "^1.9.6",
+    "ytdl-core": "^4.11.5"
+  }
+}
